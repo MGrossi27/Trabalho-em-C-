@@ -2,8 +2,8 @@
 #include "funcoes.h"
 
 int main() {
-    int tamanho = 5;  
-    int vetor[] = {5, 2, 8, 1, 3};  
+    int tamanho = 10;
+    int vetor[] = {5, 2, 8, 1, 3, 7, 9, 10, 20, 27};
 
     printf("Escolha o método de ordenação:\n");
     printf("1. Bubble Sort\n");
